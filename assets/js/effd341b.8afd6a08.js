@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[888],{7577:function(e){e.exports=JSON.parse('{"allTagsPath":"/Clan-010/blog/tags","name":"facebook","count":1,"permalink":"/Clan-010/blog/tags/facebook"}')}}]);
